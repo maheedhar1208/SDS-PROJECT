@@ -1,0 +1,11 @@
+token,log_token,nbr_samples,first_sample_token,last_sample_token,name,description
+cc8c0bf57f984915a77078b10eb33198,7e25a2c8ea1f41c5b0da1e69ecfa71a2,39,ca9a282c9e77460f8360f564131a8af5,ed5fc18c31904f96a8f0dbb99ff069c0,scene-0061,"Parked truck, construction, intersection, turn left, following a van"
+fcbccedd61424f1b85dcbf8f897f9754,53cf9c55dd8644bea67b9f009fc1ee38,40,3e8750f331d7499e9b5123e9eb70f2e2,281b92269fd648d4b52d06ac06ca6d65,scene-0103,"Many peds right, wait for turning car, long bike rack left, cyclist"
+6f83169d067343658251f72e1dd17dbc,881dd2f8aaec49b681eb54be5bf3b3e2,41,8687ba92abd3406aa797115b874ebeba,dcbe451d383e450786aaad04ab9d3790,scene-0553,"Wait at intersection, bicycle, large truck, peds crossing crosswalk, ped with stroller"
+bebf5f5b2a674631ab5c88fd1aa9e87a,6f7fe59adf984e55a82571ab4f17e4e2,41,5991fad3280c4f84b331536c32001a04,35833ae5808e4ef186d1fdebac3d9cf6,scene-0655,"Parking lot, parked cars, jaywalker, bendy bus, gardening vehicles"
+2fc3753772e241f2ab2cd16a784cc680,3a43824b84534c98bda1d07548db5817,41,cd9964f8c3d34383b16e9c2997de1ed0,8fe9664cec514a58b1184c4fcefda6b5,scene-0757,"Arrive at busy intersection, bus, wait at intersection, bicycle, peds"
+c5224b9b454b4ded9b5d2d2634bbda8a,8ff48ad1df8e4966a2151730c92b7f3c,40,c1676a2feac74eee8aa38ca3901787d6,63c24b51feb94f14bec29022dae4975d,scene-0796,"Scooter, peds on sidewalk, bus, cars, truck, fake construction worker, bicycle, cross intersection, car overtaking us"
+325cef682f064c55a255f2625c533b75,5bd40b613ac740cd9dbacdfbc3d68201,41,b5989651183643369174912bc5641d3b,b4ff30109dd14c89b24789dc5713cf8c,scene-0916,"Parking lot, bicycle rack, parked bicycles, bus, many peds, parked scooters, parked motorcycle"
+d25718445d89453381c659b9c8734939,8fefc430cbfa4c2191978c0df302eb98,41,5998b71b64c146769bde1d5430741381,ee9b3f38dadd40588f43ba590c4751b9,scene-1077,"Night, big street, bus stop, high speed, construction vehicle"
+de7d80a1f5fb4c3e82ce8a4f213b450a,8fefc430cbfa4c2191978c0df302eb98,40,e6b0b282aa174a978272dc2d0a89d560,4e1d1031fe9f45f981a2f598365fc645,scene-1094,"Night, after rain, many peds, PMD, ped with bag, jaywalker, truck, scooter"
+e233467e827140efa4b42d2b4c435855,8fefc430cbfa4c2191978c0df302eb98,40,a480496a5988410fbe3d8ed6c84da996,abf3d91d3c28407e80e3334fe89c03cb,scene-1100,"Night, peds in sidewalk, peds cross crosswalk, scooter, PMD, difficult lighting"
