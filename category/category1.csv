@@ -1,0 +1,24 @@
+token,name,description
+1fa93b757fc74fb197cdd60001ad8abf,human.pedestrian.adult,Adult subcategory.
+b1c6de4c57f14a5383d9f963fbdcb5cb,human.pedestrian.child,Child subcategory.
+b2d7c6c701254928a9e4d6aac9446d79,human.pedestrian.wheelchair,"Wheelchairs. If a person is in the wheelchair, include in the annotation."
+6a5888777ca14867a8aee3fe539b56c4,human.pedestrian.stroller,"Strollers. If a person is in the stroller, include in the annotation."
+403fede16c88426885dd73366f16c34a,human.pedestrian.personal_mobility,"A small electric or self-propelled vehicle, e.g. skateboard, segway, or scooters, on which the person typically travels in a upright position. Driver and (if applicable) rider should be included in the bounding box along with the vehicle."
+bb867e2064014279863c71a29b1eb381,human.pedestrian.police_officer,Police officer.
+909f1237d34a49d6bdd27c2fe4581d79,human.pedestrian.construction_worker,Construction worker
+63a94dfa99bb47529567cd90d3b58384,animal,"All animals, e.g. cats, rats, dogs, deer, birds."
+fd69059b62a3469fbaef25340c0eab7f,vehicle.car,"Vehicle designed primarily for personal use, e.g. sedans, hatch-backs, wagons, vans, mini-vans, SUVs and jeeps. If the vehicle is designed to carry more than 10 people use vehicle.bus. If it is primarily designed to haul cargo use vehicle.truck. "
+dfd26f200ade4d24b540184e16050022,vehicle.motorcycle,"Gasoline or electric powered 2-wheeled vehicle designed to move rapidly (at the speed of standard cars) on the road surface. This category includes all motorcycles, vespas and scooters."
+fc95c87b806f48f8a1faea2dcc2222a4,vehicle.bicycle,"Human or electric powered 2-wheeled vehicle designed to travel at lower speeds either on road surface, sidewalks or bike paths."
+003edbfb9ca849ee8a7496e9af3025d4,vehicle.bus.bendy,Bendy bus subcategory. Annotate each section of the bendy bus individually.
+fedb11688db84088883945752e480c2c,vehicle.bus.rigid,Rigid bus subcategory.
+6021b5187b924d64be64a702e5570edf,vehicle.truck,"Vehicles primarily designed to haul cargo including pick-ups, lorrys, trucks and semi-tractors. Trailers hauled after a semi-tractor should be labeled as vehicle.trailer"
+5b3cd6f2bca64b83aa3d0008df87d0e4,vehicle.construction,Vehicles primarily designed for construction. Typically very slow moving or stationary. Cranes and extremities of construction vehicles are only included in annotations if they interfere with traffic. Trucks used to haul rocks or building materials are considered vehicle.truck rather than construction vehicles.
+732cce86872640628788ff1bb81006d4,vehicle.emergency.ambulance,All types of ambulances.
+7b2ff083a64e4d53809ae5d9be563504,vehicle.emergency.police,All types of police vehicles including police bicycles and motorcycles.
+90d0f6f8e7c749149b1b6c3a029841a8,vehicle.trailer,"Any vehicle trailer, both for trucks, cars and bikes."
+653f7efbb9514ce7b81d44070d6208c1,movable_object.barrier,"Temporary road barrier placed in the scene in order to redirect traffic. Commonly used at construction sites. This includes concrete barrier, metal barrier and water barrier. No fences."
+85abebdccd4d46c7be428af5a6173947,movable_object.trafficcone,All types of traffic cone.
+d772e4bae20f493f98e15a76518b31d7,movable_object.pushable_pullable,"Objects that a pedestrian may push or pull. For example dolleys, wheel barrows, garbage-bins, or shopping carts."
+063c5e7f638343d3a7230bc3641caf97,movable_object.debris,"Movable object that is left on the driveable surface that is too large to be driven over safely, e.g tree branch, full trash bag etc."
+0a30519ee16a4619b4f4acfe2d78fb55,static_object.bicycle_rack,Area or device intended to park or secure the bicycles in a row. It includes all the bikes parked in it and any empty slots that are intended for parking bikes.
