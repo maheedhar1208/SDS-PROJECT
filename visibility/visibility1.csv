@@ -1,0 +1,5 @@
+description,token,level
+visibility of whole object is between 0 and 40%,1,v0-40
+visibility of whole object is between 40 and 60%,2,v40-60
+visibility of whole object is between 60 and 80%,3,v60-80
+visibility of whole object is between 80 and 100%,4,v80-100
